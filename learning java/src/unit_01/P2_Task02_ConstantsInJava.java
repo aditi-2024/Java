@@ -1,4 +1,4 @@
-package Unit01_P2;
+package unit_01;
 /*
  *  Constants 
  *  	Piece of code/data that does not change its value

@@ -1,4 +1,4 @@
-package Unit01_P3;
+package unit_01;
 
 /*
 #Operator in java is a symbol that is used to perform operations.

@@ -1,4 +1,4 @@
-package Unit01_P3;
+package unit_01;
 
 /* 
 -Variables in Java is a data container that saves the data values during Java program execute.
